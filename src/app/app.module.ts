@@ -6,7 +6,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { AgGridModule } from 'ag-grid-angular';
 import { HeaderCellRendererComponent } from './header/header-cell-renderer.component';
-import { MaterialModule } from '../material.module';
+import { MaterialModule } from './../material.module';
 import { MatNativeDateModule } from '@angular/material/core';
 import { HttpClientModule } from '@angular/common/http';
 
